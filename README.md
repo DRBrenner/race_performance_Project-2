@@ -2,8 +2,9 @@
 ---
 
 ### Purpose
-This was a school project designed to practice full stack data visualization development. It includes the following requirements:
-- Python Flask–powered RESTful API, HTML/CSS,
+This was a school project designed to practice full stack data visualization development. It includes the following:
+- Python, NumPy, Pandas, and Jupyter to clean and organize data
+- Python Flask–powered API, HTML/CSS,
 JavaScript, and PostgreSQL.
 - D3.js
 - Interative Plotly charts
@@ -16,9 +17,15 @@ This graphic represents the architecture of the project.
 ![Results and Goals](/static/images/tools.png "System Architecture")
 
 ### Lessons Learned
-I was not able to obtain the data I most desired (race location, school location, and training miles logged) so was limited.  My visualizations here make it seem like training does not affect race performance.  This inspired me to visualize the data by racer instead of by race in a later assignment.
+I was not able to obtain the data I most desired (race location, school location, and training miles logged) so my charting was limited.  My visualizations here make it seem like training does not affect race performance.  This inspired me to visualize the data by racer instead of by race in a later assignment.
 
-### Intention
+### To View
+This website runs off raw data in my SQL database.  The contract I signed to obtain to obtain the data prohibits me from posting the data.  Therefore, this website cannot be viewed.  I have included screen shots of a few Plotly plots. I created a viewable website without raw data on my repository called xc_performance_final.
+
+![Results and Goals](/static/images/plotly_plots.png "Plotly plots")
+
+
+### Original Assignment Intention
 
 + This is an interesting topic because many consider training hard as the best way to improve performance. My story will show other factors affecting performance.
 
